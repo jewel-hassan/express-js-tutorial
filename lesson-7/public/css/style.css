@@ -1,0 +1,11 @@
+h1{
+    background-color: red;
+    padding: 1rem;
+    color:#fff;
+    display: inline-block;
+}
+img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
